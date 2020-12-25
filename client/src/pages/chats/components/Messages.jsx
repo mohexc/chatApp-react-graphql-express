@@ -9,7 +9,6 @@ subscription {
       id
       content
       user
-    }
   }`
 
 const Messages = ({ user }) => {
